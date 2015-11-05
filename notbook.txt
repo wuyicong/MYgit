@@ -2,3 +2,4 @@ mkdir learngit #create a repository
 git init #initialzed repository
 git add <file>  #add file
 git commit  #commit file
+git remote add origin UCL 
